@@ -3,7 +3,7 @@
     "description": "PHP Luminova framework design for speed",
     "keywords": ["framework","php","api","router", "luminova", "php luminova framework", "php framework", "php luminova"],
     "license": "MIT",
-    "type": "project",
+    "type": "library",
     "homepage": "https://github.com/nanoblocktech/luminova-framework",
     "support": {
         "source": "https://github.com/nanoblocktech/luminova-framework/"
